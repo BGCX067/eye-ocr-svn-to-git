@@ -1,0 +1,12 @@
+#(
+  data=#(
+    defaultRecognizerName="Arial/Times/Courier with hungarian", 
+    lastImagePath="/home/mupeng/Downloads/eye-alpha/examples/gp346474,1.png", 
+    mainWindowBounds=rect(
+      356, 
+      170, 
+      700, 
+      500), 
+    mainWindowMaximized=false, 
+    mainWindowSplit="0.6919431090354919", 
+    welcomeDialogShownForVersion="Alpha 10"))
